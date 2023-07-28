@@ -5,7 +5,7 @@ https://youtube.com/@3thn
 
 # HOW TO USE:
 
-1. Download And Install [DotNet 6.0]([https://www.google.com](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.20-windows-x64-installer)
+1. Download And Install [DotNet 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/runtime-desktop-6.0.20-windows-x64-installer)
 2. Download the [Release](https://github.com/yk3thn/ValorantMenuChanger/releases)
 3. Extract to a folder
 4. Run ValorantMenuChanger.exe
