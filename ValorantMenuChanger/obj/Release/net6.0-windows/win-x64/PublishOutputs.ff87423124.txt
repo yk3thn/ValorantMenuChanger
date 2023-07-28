@@ -1,0 +1,3 @@
+C:\Users\ethan\source\repos\ValorantMenuChanger\ValorantMenuChanger\bin\Release\net6.0-windows\publish\win-x64\ValorantMenuChanger.pdb
+C:\Users\ethan\source\repos\ValorantMenuChanger\ValorantMenuChanger\bin\Release\net6.0-windows\publish\win-x64\ValorantMenuChanger.dll.config
+C:\Users\ethan\source\repos\ValorantMenuChanger\ValorantMenuChanger\bin\Release\net6.0-windows\publish\win-x64\ValorantMenuChanger.exe
