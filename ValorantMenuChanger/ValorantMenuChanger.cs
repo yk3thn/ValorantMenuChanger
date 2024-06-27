@@ -55,6 +55,10 @@ namespace ValorantMenuChanger
             File.Delete("C:\\Riot Games\\VALORANT\\live\\ShooterGame\\Content\\Movies\\Menu\\HomeScreenEp7_Deadlock.mp4"); //HomeScreenEp7_Deadlock
             File.Move(Properties.Settings.Default.path, "C:\\Riot Games\\VALORANT\\live\\ShooterGame\\Content\\Movies\\Menu\\HomeScreenEp7_Deadlock.mp4");
             File.Copy("C:\\Riot Games\\VALORANT\\live\\ShooterGame\\Content\\Movies\\Menu\\HomeScreenEp7_Deadlock.mp4", Properties.Settings.Default.path);
+			
+			File.Delete("C:\\Riot Games\\VALORANT\\live\\ShooterGame\\Content\\Movies\\Menu\\EP9A1_900_Homescreen.mp4"); //EP9A1_900_Homescreen
+            File.Move(Properties.Settings.Default.path, "C:\\Riot Games\\VALORANT\\live\\ShooterGame\\Content\\Movies\\Menu\\EP9A1_900_Homescreen.mp4");
+            File.Copy("C:\\Riot Games\\VALORANT\\live\\ShooterGame\\Content\\Movies\\Menu\\EP9A1_900_Homescreen.mp4", Properties.Settings.Default.path);
 
             MessageBox.Show("Swapped!");
         }
